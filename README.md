@@ -1,2 +1,3 @@
 # Senior-Design-Blue
-For Senior Design's Blue team.
+
+Repository for blue team's Senior Design project.
