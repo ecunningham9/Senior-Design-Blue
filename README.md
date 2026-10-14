@@ -4,15 +4,12 @@ Repository for blue team's Senior Design project.
 
 ## Git roster assignment
 
-For the version-control assignment, use the **dev** branch of this repository. Complete the exercise after the guest lecture.
+Complete this assignment after the lecture using **dev**.
 
-- [Illustrated assignment instructions (PDF)](team-roster-assignment.pdf)
-- [Step-by-step student instructions](STUDENT-INSTRUCTIONS.md)
-- [Team roster to edit](team-roster.txt)
-- [Software coordinator setup and review instructions](COORDINATOR-SETUP.md)
-
-Find your role number in **team-roster.txt**, add your GitHub username, and replace the example hometown with your real hometown. Edit only your row, save, inspect the change in GitHub Desktop, commit to **dev**, and push. The supplied hometowns are fictional examples.
-
-Students contribute directly to **dev** without forks or pull requests. The software coordinator reviews the changes and merges them into **main**. The coordinator must configure the **main** ruleset described in the setup guide to enforce this policy.
-
-[Lecture tutorial and slides](https://github.com/tstoffel1/egr498-git-tutorial)
+1. Install [GitHub Desktop](https://desktop.github.com/), create a [GitHub account](https://github.com/signup) if needed, and sign into Desktop.
+2. Email your coordinator your name, role number, and GitHub username. Accept the repository invitation before continuing.
+3. In Desktop, choose **File → Clone Repository → URL**, paste [this repository's URL](https://github.com/mmurphy39-hash/Senior-Design-Blue), and click **Clone**.
+4. Click **Current Branch → dev**, then **Fetch origin** and **Pull origin** if offered.
+5. Choose **Repository → Show in Explorer/Finder**. Open [team-roster.txt](team-roster.txt) in a plain text editor. Find your role number, add your GitHub username, correct the example hometown, and save. Edit only your row.
+6. In Desktop's **Changes** tab, check that only your row changed. Enter a summary such as **Update roster for role 7**, then click **Commit to dev**.
+7. Click **Fetch origin**, **Pull origin** if offered, then **Push origin**. [Open the shared roster](https://github.com/mmurphy39-hash/Senior-Design-Blue/blob/dev/team-roster.txt) and confirm your changes appear. If Desktop reports a conflict, ask your coordinator for help.
