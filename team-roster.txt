@@ -3,7 +3,7 @@ Role   Role description                           Technical assignment descripti
 6      Mobility Systems Engineer                  Sweeper/MMP Drivetrain & Terrain Mobility                                                                         Columbia, MO
 2      Systems Integration Coordinator            MCO/RRO High-Mobility Platform                                                                                    Omaha, NE
 20     Cost & Logistics Coordinator               MCO Acquisition, Retention & Transport System                                                                     Sioux Falls, SD
-18     Test & Measurement Coordinator             MCO Mass Measurement & Classification System                                                                      Duluth, MN
+18     Test & Measurement Coordinator             MCO Mass Measurement & Classification System                             Bpowell22                                Benton, KY
 7      Recovery & Manipulation Engineer           RRO Reach, Manipulation & End-Effector System                                                                     Fresno, CA
 3      Mission Operations Coordinator             RRO Stability & Reach-Envelope System                                     gwinkeler                               Albers, IL
 4      Requirements & Verification Coordinator    MMP Container Exchange & Field-Manipulation System                                                                Green Bay, WI
@@ -11,7 +11,7 @@ Role   Role description                           Technical assignment descripti
 21     Technical Communications Coordinator       MMP Acoustic Acquisition & Chord-Recognition System                                                               Flagstaff, AZ
 17     Reliability & Risk Engineer                MMP Payload Transport, Retention & Landing-Marker Deployment System                                               Madison, WI
 5      Mechanical Design Coordinator              Hazard Detection & Scanning Physical System                                                                       Santa Fe, NM
-9      Navigation & Localization Coordinator      Navigation & Localization System                                                                                  Fargo, ND
+9      Navigation & Localization Coordinator      Navigation & Localization System                                          isabella-floyd                          Richmond, KY
 10     Controls & Autonomy Engineer               Vehicle Motion Control & Autonomy System                                                                          Tulsa, OK
 14     Embedded Systems Engineer                  Common Vehicle Controller, I/O & Electronics Packaging System                                                     Salem, OR
 13     Power Systems Coordinator                  Vehicle Electrical Power System                                                                                   Tucson, AZ
