@@ -13,7 +13,7 @@ Role   Role description                           Technical assignment descripti
 5      Mechanical Design Coordinator              Hazard Detection & Scanning Physical System                          ecain9                                             Murray,KY
 9      Navigation & Localization Coordinator      Navigation & Localization System                                          isabella-floyd                          Richmond, KY
 10     Controls & Autonomy Engineer               Vehicle Motion Control & Autonomy System                                                                          Tulsa, OK
-14     Embedded Systems Engineer                  Common Vehicle Controller, I/O & Electronics Packaging System                                                     Salem, OR
+14     Embedded Systems Engineer                  Common Vehicle Controller, I/O & Electronics Packaging System             Kbenn05                                 Benton, Ky
 13     Power Systems Coordinator                  Vehicle Electrical Power System                                                                                   Tucson, AZ
 12     Communications Systems Coordinator         Field Communications Network                                                                                      Lincoln, NE
 11     Software Systems Coordinator               Software Architecture & Mission Data System                               mmurphy39-hash                          Central City, KY
