@@ -7,13 +7,13 @@ Role   Role description                           Technical assignment descripti
 7      Recovery & Manipulation Engineer           RRO Reach, Manipulation & End-Effector System                                                                     Fresno, CA
 3      Mission Operations Coordinator             RRO Stability & Reach-Envelope System                                     gwinkeler                               Albers, IL
 4      Requirements & Verification Coordinator    MMP Container Exchange & Field-Manipulation System                                                                Green Bay, WI
-8      Sensing Systems Coordinator                MMP Target Identification & Thermal Characterization System                                                       Wichita, KS
+8      Sensing Systems Coordinator                MMP Target Identification & Thermal Characterization System               Mrinella322                                        Paducah, KY
 21     Technical Communications Coordinator       MMP Acoustic Acquisition & Chord-Recognition System                                                               Flagstaff, AZ
 17     Reliability & Risk Engineer                MMP Payload Transport, Retention & Landing-Marker Deployment System                                               Madison, WI
 5      Mechanical Design Coordinator              Hazard Detection & Scanning Physical System                          ecain9                                             Murray,KY
 9      Navigation & Localization Coordinator      Navigation & Localization System                                          isabella-floyd                          Richmond, KY
 10     Controls & Autonomy Engineer               Vehicle Motion Control & Autonomy System                                                                          Tulsa, OK
-14     Embedded Systems Engineer                  Common Vehicle Controller, I/O & Electronics Packaging System                                                     Salem, OR
+14     Embedded Systems Engineer                  Common Vehicle Controller, I/O & Electronics Packaging System             Kbenn05                                 Benton, Ky
 13     Power Systems Coordinator                  Vehicle Electrical Power System                                                                                   Tucson, AZ
 12     Communications Systems Coordinator         Field Communications Network                                                                                      Lincoln, NE
 11     Software Systems Coordinator               Software Architecture & Mission Data System                               mmurphy39-hash                          Central City, KY
