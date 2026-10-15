@@ -1,6 +1,6 @@
 Role   Role description                           Technical assignment description                                        GitHub username                           Hometown
 1      Team Leader                                Common Sweeper/MMP Mobility Platform                                                                              Lafayette, LA
-6      Mobility Systems Engineer                  Sweeper/MMP Drivetrain & Terrain Mobility                                                                         Columbia, MO
+6      Mobility Systems Engineer                  Sweeper/MMP Drivetrain & Terrain Mobility                                hburton6                                 Paducah, KY
 2      Systems Integration Coordinator            MCO/RRO High-Mobility Platform                                                                                    Omaha, NE
 20     Cost & Logistics Coordinator               MCO Acquisition, Retention & Transport System                                                                     Sioux Falls, SD
 18     Test & Measurement Coordinator             MCO Mass Measurement & Classification System                             Bpowell22                                Benton, KY
