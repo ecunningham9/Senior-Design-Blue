@@ -11,7 +11,7 @@ Role   Role description                           Technical assignment descripti
 21     Technical Communications Coordinator       MMP Acoustic Acquisition & Chord-Recognition System                                                               Flagstaff, AZ
 17     Reliability & Risk Engineer                MMP Payload Transport, Retention & Landing-Marker Deployment System                                               Madison, WI
 5      Mechanical Design Coordinator              Hazard Detection & Scanning Physical System                                                                       Santa Fe, NM
-9      Navigation & Localization Coordinator      Navigation & Localization System                                                                                  Fargo, ND
+9      Navigation & Localization Coordinator      Navigation & Localization System                                          isabella-floyd                          Richmond, KY
 10     Controls & Autonomy Engineer               Vehicle Motion Control & Autonomy System                                                                          Tulsa, OK
 14     Embedded Systems Engineer                  Common Vehicle Controller, I/O & Electronics Packaging System                                                     Salem, OR
 13     Power Systems Coordinator                  Vehicle Electrical Power System                                                                                   Tucson, AZ
