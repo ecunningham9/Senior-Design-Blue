@@ -2,7 +2,7 @@ Role   Role description                           Technical assignment descripti
 1      Team Leader                                Common Sweeper/MMP Mobility Platform                                       awagner13                              Pinckneyville, IL
 6      Mobility Systems Engineer                  Sweeper/MMP Drivetrain & Terrain Mobility                                hburton6                                 Paducah, KY
 2      Systems Integration Coordinator            MCO/RRO High-Mobility Platform                                           awerner04                                Cynthiana, IN
-20     Cost & Logistics Coordinator               MCO Acquisition, Retention & Transport System                                                                     Sioux Falls, SD
+20     Cost & Logistics Coordinator               MCO Acquisition, Retention & Transport System                             KeelyOConnell                            Saint Louis, MO
 18     Test & Measurement Coordinator             MCO Mass Measurement & Classification System                             Bpowell22                                Benton, KY
 7      Recovery & Manipulation Engineer           RRO Reach, Manipulation & End-Effector System                                                                     Fresno, CA
 3      Mission Operations Coordinator             RRO Stability & Reach-Envelope System                                     gwinkeler                               Albers, IL
