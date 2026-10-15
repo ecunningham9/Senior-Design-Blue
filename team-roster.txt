@@ -1,0 +1,22 @@
+Role   Role description                           Technical assignment description                                        GitHub username                           Hometown
+1      Team Leader                                Common Sweeper/MMP Mobility Platform                                                                              Lafayette, LA
+6      Mobility Systems Engineer                  Sweeper/MMP Drivetrain & Terrain Mobility                                                                         Columbia, MO
+2      Systems Integration Coordinator            MCO/RRO High-Mobility Platform                                                                                    Omaha, NE
+20     Cost & Logistics Coordinator               MCO Acquisition, Retention & Transport System                                                                     Sioux Falls, SD
+18     Test & Measurement Coordinator             MCO Mass Measurement & Classification System                                                                      Duluth, MN
+7      Recovery & Manipulation Engineer           RRO Reach, Manipulation & End-Effector System                                                                     Fresno, CA
+3      Mission Operations Coordinator             RRO Stability & Reach-Envelope System                                                                             Boise, ID
+4      Requirements & Verification Coordinator    MMP Container Exchange & Field-Manipulation System                                                                Green Bay, WI
+8      Sensing Systems Coordinator                MMP Target Identification & Thermal Characterization System                                                       Wichita, KS
+21     Technical Communications Coordinator       MMP Acoustic Acquisition & Chord-Recognition System                                                               Flagstaff, AZ
+17     Reliability & Risk Engineer                MMP Payload Transport, Retention & Landing-Marker Deployment System                                               Madison, WI
+5      Mechanical Design Coordinator              Hazard Detection & Scanning Physical System                                                                       Santa Fe, NM
+9      Navigation & Localization Coordinator      Navigation & Localization System                                                                                  Fargo, ND
+10     Controls & Autonomy Engineer               Vehicle Motion Control & Autonomy System                                                                          Tulsa, OK
+14     Embedded Systems Engineer                  Common Vehicle Controller, I/O & Electronics Packaging System                                                     Salem, OR
+13     Power Systems Coordinator                  Vehicle Electrical Power System                                                                                   Tucson, AZ
+12     Communications Systems Coordinator         Field Communications Network                                                                                      Lincoln, NE
+11     Software Systems Coordinator               Software Architecture & Mission Data System                                                                       Burlington, VT
+19     Operator Control Systems Engineer          Operator Control Console & Command-Authority System                                                               Buffalo, NY
+15     Systems Standards Coordinator              Common Mechanical/Electrical Module Interface System                                                              Austin, TX
+16     Deployment & Sled Coordinator              Deployment/Recovery Sled System                                                                                   Boulder, CO
