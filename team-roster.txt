@@ -3,7 +3,7 @@ Role   Role description                           Technical assignment descripti
 6      Mobility Systems Engineer                  Sweeper/MMP Drivetrain & Terrain Mobility                                                                         Columbia, MO
 2      Systems Integration Coordinator            MCO/RRO High-Mobility Platform                                                                                    Omaha, NE
 20     Cost & Logistics Coordinator               MCO Acquisition, Retention & Transport System                                                                     Sioux Falls, SD
-18     Test & Measurement Coordinator             MCO Mass Measurement & Classification System                                                                      Duluth, MN
+18     Test & Measurement Coordinator             MCO Mass Measurement & Classification System                             Bpowell22                                Benton, KY
 7      Recovery & Manipulation Engineer           RRO Reach, Manipulation & End-Effector System                                                                     Fresno, CA
 3      Mission Operations Coordinator             RRO Stability & Reach-Envelope System                                                                             Boise, ID
 4      Requirements & Verification Coordinator    MMP Container Exchange & Field-Manipulation System                                                                Green Bay, WI
