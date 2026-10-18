@@ -18,5 +18,5 @@ Role   Role description                           Technical assignment descripti
 12     Communications Systems Coordinator         Field Communications Network                                               BlakeLikens                            Greenville, Ky
 11     Software Systems Coordinator               Software Architecture & Mission Data System                               mmurphy39-hash                          Central City, KY
 19     Operator Control Systems Engineer          Operator Control Console & Command-Authority System                                                               Buffalo, NY
-15     Systems Standards Coordinator              Common Mechanical/Electrical Module Interface System                                                              Austin, TX
+15     Systems Standards Coordinator              Common Mechanical/Electrical Module Interface                             mcraddock1                              Metropolis, IL
 16     Deployment & Sled Coordinator              Deployment/Recovery Sled System                                                                                   Boulder, CO
