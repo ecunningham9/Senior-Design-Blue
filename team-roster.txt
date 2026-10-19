@@ -8,7 +8,6 @@ Role   Role description                           Technical assignment descripti
 3      Mission Operations Coordinator             RRO Stability & Reach-Envelope System                                     gwinkeler                               Albers, IL
 4      Requirements & Verification Coordinator    MMP Container Exchange & Field-Manipulation System                                                                Green Bay, WI
 8      Sensing Systems Coordinator                MMP Target Identification & Thermal Characterization System               Mrinella322                                        Paducah, KY
-21     Technical Communications Coordinator       MMP Acoustic Acquisition & Chord-Recognition System                                                               Flagstaff, AZ
 21     Technical Communications Coordinator       MMP Acoustic Acquisition & Chord-Recognition System                                                               Ecunningham9				Murray, KY
 17     Reliability & Risk Engineer                MMP Payload Transport, Retention & Landing-Marker Deployment System                                               Madison, WI
 5      Mechanical Design Coordinator              Hazard Detection & Scanning Physical System                          ecain9                                             Murray,KY
